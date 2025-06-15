@@ -10,7 +10,7 @@
 - Define an IIFE: `Immediately-Invoked Function Expression`
 - Define `function-level scope`
 - Define `scope chain`
-- Define `closure`
+- Define `closure` 
 
 ## Introduction
 
